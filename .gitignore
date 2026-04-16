@@ -3,3 +3,4 @@ bank/target/*
 media/target/*
 logs/target/*
 iter/target/*
+lifetimes/target/*
